@@ -1,2 +1,2 @@
 # pyllut
-generating python unit tests using llms
+(WIP) LLM-based framework for Python unit test generation
